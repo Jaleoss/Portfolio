@@ -3,18 +3,18 @@
         "title": "AMM Clara Campoamor",
         "year": "2025",
         "image": "./imagenes_home/mockup 1.png",
-        "link": "../clara-campoamor/index.html"
+        "link": "clara-campoamor/index.html"
     },
     {
         "title": "Jaleoss",
         "year": "2024",
         "image": "./imagenes_home/mockup 2.png",
-        "link": "../jaleoss/index.html"
+        "link": "jaleoss/index.html"
     },
     {
         "title": "AlaDí",
         "year": "2025",
         "image": "./imagenes_home/mockup 3.png",
-        "link": "../aladi/index.html"
+        "link": "aladi/index.html"
     }
 ]
