@@ -1,15 +1,14 @@
 /* BOXING FONT */
 @font-face {
     font-family: 'Boxing';
-    src: url('./fonts/Boxing-Regular.woff2') format('woff2');
+    src: url('../fonts/Boxing-Regular.woff2') format('woff2'); /* Cambiado de ./ a ../ */
     font-weight: normal;
     font-style: normal;
 }
 
-/* GENERAL SANS FONT */
 @font-face {
     font-family: 'General Sans';
-    src: url('./fonts/GeneralSans-Regular.woff2') format('woff2');
+    src: url('../fonts/GeneralSans-Regular.woff2') format('woff2'); /* Cambiado de ./ a ../ */
     font-weight: 400;
     font-style: normal;
     font-display: swap;
