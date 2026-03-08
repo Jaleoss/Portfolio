@@ -464,13 +464,24 @@ body {
 
     .footer-main-content {
         flex-direction: column;
-        gap: 4rem;
+        /* Reducimos el espacio entre los bloques (Left, Gracias, Right) */
+        gap: 1.5rem; 
+        /* Aumentamos el espacio superior para alejarlo del video */
+        padding-top: 10rem; 
+        padding-bottom: 2rem;
+        justify-content: flex-start; /* Alinea el contenido hacia arriba dentro del 100vh */
     }
+
     .footer-side {
         align-items: center;
         text-align: center;
     }
-    .thank-you-huge {
-        font-size: 2rem;
+
+    .footer-left-side, .footer-text{
+        color: #3f3f46;
     }
-}
+
+    .thank-you-huge {
+    font-size: 1.5rem;
+    }
+} 
